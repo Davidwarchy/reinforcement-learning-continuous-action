@@ -1,8 +1,10 @@
 
 # Solve Continuous Action Problem with Reinforcement Learning 
 
+https://private-user-images.githubusercontent.com/17954362/407263992-7c540240-ffe3-4dab-93e0-9806baad50f2.mp4
+
 <video controls width="640" height="360">
-  <source src="combined_video.mp4" type="video/mp4">
+  <source src="https://github.com/Davidwarchy/reinforcement-learning-continuous-action/blob/master/combined_video.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
