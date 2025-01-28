@@ -1,6 +1,11 @@
 
 # Solve Continuous Action Problem with Reinforcement Learning 
-<video controls src="combined_video.mp4" title="Title"></video>
+
+<video controls width="640" height="360">
+  <source src="combined_video.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Environment Description 
 A rod suspending on one end from a pivot point. 
 
